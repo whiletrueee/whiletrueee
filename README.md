@@ -10,4 +10,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=flying-solo&theme=highcontrast&show_icons=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=flying-solo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=flying-solo)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
