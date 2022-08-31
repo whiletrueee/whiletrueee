@@ -1,4 +1,4 @@
-### Hello there, Wassup ✌️
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Harshit ! 
 
 - 🔭 I’m currently working on CryptoDash (a frontend project for cryptocurrencies)
 - 🌱 I’m currently learning Java 
